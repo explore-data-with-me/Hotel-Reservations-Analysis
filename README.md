@@ -11,7 +11,7 @@
 #Assumptions
 
 ###1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
-###2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
+####2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
 ###3. There are no unanticipated negatives to the hotel employing any advised technique.
 ###4. The hotels are not currently using any of the suggested solutions.
 ###5. The biggest factor affecting the effectiveness of earning income is booking cancellations.
