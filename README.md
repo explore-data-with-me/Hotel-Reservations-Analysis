@@ -8,7 +8,7 @@
 
 
 
-#Assumptions
+# Assumptions
 
 ### 1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
 ### 2. The information is still current and can be used to analyze a hotel's possible plans efficiently.
